@@ -1,4 +1,6 @@
 Esté é um código feito em python utilizando a biblioteca pyautogui.
-Basicamente, é um detector de imagem que é capaz de jogar o jogo http://www.aimbooster.com/ de forma completamente autonoma 
+Basicamente, é um detector de imagem que é capaz de detectar um pixel especifico na tela e realizar um click de forma automatica
+"aimboster.py" é capaz de jogar o jogo http://www.aimbooster.com/ de forma automatica
+"pianotales.py" é capaz de jogar o jogo "piano white master", disponivel na Microsoft store de forma gratuita.
 
-Para funcionar, apenas se certifique de que os prints que são gerados fiquem na mesma pasta do codigo.
+Para funcionar, apenas se certifique de colocar o jogo na tela principal, em caso de mais de um monitor.
